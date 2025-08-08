@@ -25,6 +25,37 @@ Dataset Link :- https://www.kaggle.com/mlg-ulb/creditcardfraud
 
 
 
+# Credit Card Fraud Detection 🕵️‍♂️💳
+
+A full-stack web application for detecting fraudulent credit card transactions using machine learning (Logistic Regression). Built with Django, scikit-learn, Pandas, and integrated with secure user authentication, CSV upload, and dynamic data analysis.
+
+## 🔍 Features
+
+- Upload CSV datasets to detect fraudulent transactions
+- Logistic Regression model for real-time prediction
+- Fraud ratio calculation and class distribution insights
+- Null value analysis and evaluation metrics
+- Interactive data table with pagination (DataTables)
+- User login, registration, and session handling
+- File management for uploaded datasets
+- Responsive UI with HTML, CSS, JavaScript
+
+## 🛠️ Tech Stack
+
+**Frontend:**
+- HTML5, CSS3, Bootstrap
+- JavaScript, DataTables
+
+**Backend:**
+- Python, Django
+- Pandas, scikit-learn
+- SQLite (local database)
+
+**Tools:**
+- Git, GitHub, VS Code
+
+## 📁 Project Structure
+
 
 
 
